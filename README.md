@@ -14,3 +14,7 @@ Master: another node with Kubernetes installed in it and is configured as a Mast
 # Minikube
 
 ![Alt Text](https://github.com/duozhanggithub/Kubernetes/blob/master/Minikube.png)
+
+Kubeadm
+
+![Alt Text](https://github.com/duozhanggithub/Kubernetes/blob/master/Kuberadm.png)
