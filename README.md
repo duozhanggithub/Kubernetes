@@ -10,3 +10,5 @@ Nodes: A node is a machine, physical or virtual on which Kubernetes is installed
 Cluster: a set of nodes grouped together, if one node fails, the application still accessible, multiple nodes also help sharing loads
 
 Master: another node with Kubernetes installed in it and is configured as a Master.The master watches over the nodes in the cluster and is responsible for the actual orchestration of containers on the worker nodes.
+
+![Alt Text](https://github.com/duozhanggithub/Kubernetes/blob/master/Minikube.png)
