@@ -11,4 +11,6 @@ Cluster: a set of nodes grouped together, if one node fails, the application sti
 
 Master: another node with Kubernetes installed in it and is configured as a Master.The master watches over the nodes in the cluster and is responsible for the actual orchestration of containers on the worker nodes.
 
+# Minikube
+
 ![Alt Text](https://github.com/duozhanggithub/Kubernetes/blob/master/Minikube.png)
