@@ -15,7 +15,11 @@ Master: another node with Kubernetes installed in it and is configured as a Mast
 
 POD: A pod is a single instance of an application, it is the smallest object that you can create in Kubernetes. Usually have one to one relationship with the containers.
 
+Create Pods using YAML
 
+![Alt Text](https://github.com/duozhanggithub/Kubernetes/blob/master/YAML%20for%20pod.png)
+
+pod-definition.yml: contains four fields, apiVersion, kind, metadata, spec
 
 # Minikube
 
