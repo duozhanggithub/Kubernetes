@@ -21,6 +21,12 @@ Create Pods using YAML (refer to https://github.com/duozhanggithub/Kubernetes/bl
 
 pod-definition.yml: contains four fields, apiVersion, kind, metadata, spec
 
+Replication controller: prevent fail situation, load balancing and scaling
+![Alt Text](https://github.com/duozhanggithub/Kubernetes/blob/master/replicationcontroller.png)
+
+Replica set: has different apiVersion, also has selector, use labels to identify which pod to monitor
+![Alt Text](https://github.com/duozhanggithub/Kubernetes/blob/master/replicaset.png)
+
 # Minikube
 
 ![Alt Text](https://github.com/duozhanggithub/Kubernetes/blob/master/Minikube.png)
