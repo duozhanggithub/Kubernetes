@@ -23,7 +23,7 @@ pod-definition.yml: contains four fields, apiVersion, kind, metadata, spec
 
 Replication controller: prevent fail situation, load balancing and scaling
 
-![Alt Text](https://github.com/duozhanggithub/Kubernetes/blob/master/replicationcontroller.png)
+![Alt Text](https://github.com/duozhanggithub/Kubernetes/blob/master/Replication%20Controller.png)
 
 Replica set: has different apiVersion, also has selector, use labels to identify which pod to monitor
 
